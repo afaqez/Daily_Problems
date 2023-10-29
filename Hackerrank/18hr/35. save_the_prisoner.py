@@ -30,7 +30,7 @@ def saveThePrisoner(n, m, s):
     else:
 
         # get the remainder with the minus 1 already sorted out and take a mod with n which will give us the actual prisoners value
-        # if the mod is 0 this means that the rotations are even distributed 
+        # if the mod is 0 this means that the rotations are evenly distributed 
 
         remainder = (s + m - 1) % n
         if remainder != 0:
