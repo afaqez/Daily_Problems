@@ -10,17 +10,18 @@ Welcome to my daily problem-solving journey as I embark on a quest to complete 1
 |      | 3. [compare-the-triplets.py](https://github.com/afaqez/Daily_Problems/blob/main/Hackerrank/1hr/3.%20complete_the_triplets.py)  |                                                         |
 |      | 4. [a-very-big-sum.py](https://github.com/afaqez/Daily_Problems/blob/main/Hackerrank/1hr/4.%20a_very_big_sum.py)  |                                                         |
 |      | 5. [diagonal-difference.py](https://github.com/afaqez/Daily_Problems/blob/main/Hackerrank/1hr/5.%20diagonal_difference.py)  |                                                         |
-| 2hr  | 6. [plus_minus.py]((https://github.com/afaqez/Daily_Problems/blob/main/Hackerrank/2hr/6.%20plus_minus.py))  |                                                         |
-|      | 8. [mini-max-sum.py](https://github.com/HibbanHaroon/daily_problems/blob/main/Hackerrank/2hr/8.%20mini-max-sum.py)  |                                                         |
-|      | 9. [birthday-cake-candles.py](https://github.com/HibbanHaroon/daily_problems/blob/main/Hackerrank/2hr/9.%20birthday-cake-candles.py)  |                                                         |
-|      | 10. [time-conversion.py](https://github.com/HibbanHaroon/daily_problems/blob/main/Hackerrank/2hr/10.%20time-conversion.py)  | It was a pretty good interesting problem. I liked the `zfill` function I used to append leading zeroes in front of a string. |
-| 3hr  | 11. [grading_students.py](https://github.com/HibbanHaroon/daily_problems/blob/main/Hackerrank/3hr/11.%20grading_students.py)  |                                                         |
-|      | 12. [apple_and_orange.py](https://github.com/HibbanHaroon/daily_problems/blob/main/Hackerrank/3hr/12.%20apple_and_orange.py)  |                                                         |
-|      | 13. [number_line_jumps.py](https://github.com/HibbanHaroon/daily_problems/blob/main/Hackerrank/3hr/13.%20number_line_jumps.py)  |                                                         |
-| 4hr  | 14. [between_two_sets.py](https://github.com/HibbanHaroon/daily_problems/blob/main/Hackerrank/4hr/14.%20between_two_sets.py)  | Pretty interesting and a bit complex problem but it was fun solving it. |
-| 5hr  | 15. [breaking_the_records.py](https://github.com/HibbanHaroon/daily_problems/blob/main/Hackerrank/5hr/15.%20breaking_the_records.py)  |                                                         |
-|      | 16. [subarray_division.py](https://github.com/HibbanHaroon/daily_problems/blob/main/Hackerrank/5hr/16.%20subarray_division.py)  |                                                         |
-|      | 17. [divisible_sum_pairs.py](https://github.com/HibbanHaroon/daily_problems/blob/main/Hackerrank/5hr/17.%20divisible_sum_pairs.py)  |                                                         |
+| 2hr  | 6. [plus_minus.py](https://github.com/afaqez/Daily_Problems/blob/main/Hackerrank/2hr/6.%20plus_minus.py)  |                                                         |
+|      | 7. [staircase.py](https://github.com/afaqez/Daily_Problems/blob/main/Hackerrank/2hr/7.%20staircase.py)  |                                                         |
+|      | 8. [mini_max_sum.py](https://github.com/afaqez/Daily_Problems/blob/main/Hackerrank/2hr/8.%20mini_max_sum.py)  |                                                         |
+| 3hr  | 9. [birthday-cake-candles.py](https://github.com/afaqez/Daily_Problems/blob/main/Hackerrank/3hr/9.%20birthday-cake-candles.py)  |                                                         |
+|      | 10. [time-conversion.py](https://github.com/afaqez/Daily_Problems/blob/main/Hackerrank/3hr/10.%20time-conversion.py)  |                                                           |
+| 4hr  | 11. [grading_students.py](https://github.com/afaqez/Daily_Problems/blob/main/Hackerrank/4hr/11.%20grading_students.py)  |                                                         |
+| 5hr  | 12. [apple_and_orange.py](https://github.com/afaqez/Daily_Problems/blob/main/Hackerrank/5hr/12.%20apple_and_oranges.py)  |                                                         |
+|      | 13. [number_line_jumps.py](https://github.com/afaqez/Daily_Problems/blob/main/Hackerrank/5hr/13.%20number_line_jumps.py)  |                                                         |
+| 6hr  | 14. [between_two_sets.py](https://github.com/afaqez/Daily_Problems/blob/main/Hackerrank/6hr/14.%20between_two_sets.py)  | Actually managed to learn about GCD and LCM lol. |
+| 7hr  | 15. [breaking_the_records.py](https://github.com/afaqez/Daily_Problems/blob/main/Hackerrank/7hr/15.%20breaking_the_records.py)  |                                                         |
+|      | 16. [subarray_division.py](https://github.com/afaqez/Daily_Problems/blob/main/Hackerrank/7hr/16.%20subarray_division.py)  |                                                         |
+|      | 17. [divisible_sum_pairs.py](https://github.com/afaqez/Daily_problems/blob/main/Hackerrank/5hr/17.%20divisible_sum_pairs.py)  |                                                         |
 |      | 18. [migratory_birds.py](https://github.com/HibbanHaroon/daily_problems/blob/main/Hackerrank/5hr/18.%20migratory_birds.py)  |                                                         |
 | 6hr  | 19. [day_of_the_programmer.py](https://github.com/HibbanHaroon/daily_problems/blob/main/Hackerrank/6hr/19.%20day_of_the_programmer.py)  |                                                         |
 |      | 20. [bill_division.py](https://github.com/HibbanHaroon/daily_problems/blob/main/Hackerrank/6hr/20.%20bill_division.py)  |                                                         |
