@@ -10,7 +10,7 @@ Welcome to my daily problem-solving journey as I embark on a quest to complete 1
 |      | 3. [compare-the-triplets.py](https://github.com/afaqez/Daily_Problems/blob/main/Hackerrank/1hr/3.%20complete_the_triplets.py)  |                                                         |
 |      | 4. [a-very-big-sum.py](https://github.com/afaqez/Daily_Problems/blob/main/Hackerrank/1hr/4.%20a_very_big_sum.py)  |                                                         |
 |      | 5. [diagonal-difference.py](https://github.com/afaqez/Daily_Problems/blob/main/Hackerrank/1hr/5.%20diagonal_difference.py)  |                                                         |
-| 2hr  | 6. [plus_minus.py]([https://github.com/HibbanHaroon/daily_problems/blob/main/Hackerrank/2hr/7.%20staircase.py](https://github.com/afaqez/Daily_Problems/blob/main/Hackerrank/2hr/6.%20plus_minus.py))  |                                                         |
+| 2hr  | 6. [plus_minus.py]((https://github.com/afaqez/Daily_Problems/blob/main/Hackerrank/2hr/6.%20plus_minus.py))  |                                                         |
 |      | 8. [mini-max-sum.py](https://github.com/HibbanHaroon/daily_problems/blob/main/Hackerrank/2hr/8.%20mini-max-sum.py)  |                                                         |
 |      | 9. [birthday-cake-candles.py](https://github.com/HibbanHaroon/daily_problems/blob/main/Hackerrank/2hr/9.%20birthday-cake-candles.py)  |                                                         |
 |      | 10. [time-conversion.py](https://github.com/HibbanHaroon/daily_problems/blob/main/Hackerrank/2hr/10.%20time-conversion.py)  | It was a pretty good interesting problem. I liked the `zfill` function I used to append leading zeroes in front of a string. |
