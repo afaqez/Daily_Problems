@@ -21,7 +21,7 @@ Welcome to my daily problem-solving journey as I embark on a quest to complete 1
 | 6hr  | 14. [between_two_sets.py](https://github.com/afaqez/Daily_Problems/blob/main/Hackerrank/6hr/14.%20between_two_sets.py)  | Actually managed to learn about GCD and LCM lol. |
 | 7hr  | 15. [breaking_the_records.py](https://github.com/afaqez/Daily_Problems/blob/main/Hackerrank/7hr/15.%20breaking_the_records.py)  |                                                         |
 |      | 16. [subarray_division.py](https://github.com/afaqez/Daily_Problems/blob/main/Hackerrank/7hr/16.%20subarray_division.py)  |                                                         |
-|      | 17. [divisible_sum_pairs.py](https://github.com/afaqez/Daily_problems/blob/main/Hackerrank/5hr/17.%20divisible_sum_pairs.py)  |                                                         |
+|      | 17. [divisible_sum_pairs.py](https://github.com/afaqez/Daily_problems/blob/main/Hackerrank/7hr/17.%20divisible_sum_pairs.py)  |                                                         |
 |      | 18. [migratory_birds.py](https://github.com/HibbanHaroon/daily_problems/blob/main/Hackerrank/5hr/18.%20migratory_birds.py)  |                                                         |
 | 6hr  | 19. [day_of_the_programmer.py](https://github.com/HibbanHaroon/daily_problems/blob/main/Hackerrank/6hr/19.%20day_of_the_programmer.py)  |                                                         |
 |      | 20. [bill_division.py](https://github.com/HibbanHaroon/daily_problems/blob/main/Hackerrank/6hr/20.%20bill_division.py)  |                                                         |
