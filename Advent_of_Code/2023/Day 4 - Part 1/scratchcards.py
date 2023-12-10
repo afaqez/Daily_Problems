@@ -7,11 +7,12 @@
 
 
 
-
 f = open('file.txt', 'r')
-points = 0
+sum_of_points = 0
 
 for card in f.readlines():
+    count = 0
+    points = 0
     card_info, card_details = card.split(':')
     winning_string, elf_string = card_details.split('|')
     winning_numbers = []
@@ -25,16 +26,15 @@ for card in f.readlines():
     elf_numbers = [int(num) for num in elf_numbers]
     
 
-    count = 0
-
     for winning_number in winning_numbers:
         for elf_number in elf_numbers:
             if winning_number == elf_number:
                 count += 1
-                points = 2^count
+                points = 2**(count - 1)
 
+    sum_of_points += points
 
-print(points) 
+print(sum_of_points) 
 
 
 
